@@ -79,7 +79,7 @@ hr{
    height: 1px;
 }
 .banner{
-   background-image: url(../web/Rectangle\ 2\ \(1\).svg);
+   background-image: url(../web/img/kreslo.svg);
    background-repeat: no-repeat;
    background-size: cover;
    padding-top: 159px;
@@ -110,7 +110,7 @@ hr{
    display: block;
    width: 80px;
    height: 80px;
-   background-image: url(../web/logo\ \(1\).svg);
+   background-image: url(../web/img/logo.svg);
    margin-right: 20px;
 }
 .header-info button:hover{
@@ -270,16 +270,16 @@ hr{
    margin-right: 20px;
 }
 .youtube{
-   background-image: url(../web/Vector\ \(20\).svg);
+   background-image: url(../web/img/youtube.svg);
 }
 .vk{
-   background-image: url(../web/Vector\ \(21\).svg);
+   background-image: url(../web/img/vk.svg);
 }
 .facebook{
-   background-image: url(../web/Vector\ \(22\).svg);
+   background-image: url(../web/img/facebook.svg);
 }
 .instagram{
-   background-image: url(../web/instagram\ \(1\).svg);
+   background-image: url(../web/img/instagram.svg);
 }
 .footer-top{
    display: flex;
